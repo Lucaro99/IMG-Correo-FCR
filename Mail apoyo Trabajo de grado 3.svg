@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 246.46">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #cfe6ff;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: .15em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-10 {
+        fill: #666;
+        font-family: Montserrat-Regular, Montserrat;
+        font-size: 25px;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: .15em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        fill: #0263e2;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="-45.33" y="-925.6" width="1189.33" height="1326.22"/>
+  <text class="cls-10" transform="translate(158.18 41.67) scale(1.03 1)"><tspan class="cls-18" x="0" y="0">A</tspan><tspan x="17.8" y="0">g</tspan><tspan class="cls-9" x="34.92" y="0">r</tspan><tspan x="43.93" y="0">ade</tspan><tspan class="cls-3" x="90.72" y="0">c</tspan><tspan x="104.57" y="0">emos</tspan><tspan class="cls-7" x="174.07" y="0"> </tspan><tspan x="184.46" y="0">de</tspan><tspan class="cls-7" x="216.51" y="0"> </tspan><tspan x="226.9" y="0">an</tspan><tspan class="cls-13" x="258.55" y="0">t</tspan><tspan x="268.23" y="0">emano</tspan><tspan class="cls-7" x="357.18" y="0"> </tspan><tspan x="367.57" y="0">el</tspan><tspan class="cls-7" x="389.39" y="0"> </tspan><tspan x="399.78" y="0">ap</tspan><tspan class="cls-8" x="431.48" y="0">oy</tspan><tspan x="459.96" y="0">o</tspan><tspan class="cls-7" x="475.63" y="0"> </tspan><tspan x="486.02" y="0">y</tspan><tspan class="cls-7" x="499.57" y="0"> </tspan><tspan x="509.96" y="0">la</tspan><tspan class="cls-7" x="531.43" y="0"> </tspan><tspan x="541.82" y="0">disposi</tspan><tspan class="cls-2" x="629.25" y="0">c</tspan><tspan x="643.12" y="0">ión</tspan><tspan class="cls-12" x="682.42" y="0"> </tspan><tspan x="692.81" y="0">que </tspan><tspan x="0" y="30">siemp</tspan><tspan class="cls-14" x="77.5" y="30">r</tspan><tspan x="87.2" y="30">e nos ca</tspan><tspan class="cls-11" x="189" y="30">r</tspan><tspan x="198" y="30">a</tspan><tspan class="cls-6" x="212.75" y="30">c</tspan><tspan class="cls-15" x="226.97" y="30">t</tspan><tspan x="236.65" y="30">e</tspan><tspan class="cls-2" x="251.75" y="30">r</tspan><tspan x="261.57" y="30">iza </tspan><tspan class="cls-1" x="302.37" y="30">c</tspan><tspan x="316.22" y="30">omo equip</tspan><tspan class="cls-16" x="453.17" y="30">o</tspan><tspan x="468.47" y="30">.</tspan></text>
+  <g>
+    <path class="cls-5" d="M-20.01,266.47v-30.35l5.87-5.86c14.61-14.59,22.78-22.76,37.37-37.37l5.86-5.87h499.96l152.04-87.01h418.91v166.47H-20.01Z"/>
+    <path class="cls-17" d="M1080,120.01v126.45S0,246.46,0,246.46v-2.04c14.61-14.6,22.79-22.78,37.39-37.39h496.99l152.04-87.02h393.58Z"/>
+  </g>
+</svg>
